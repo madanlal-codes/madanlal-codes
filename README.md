@@ -31,9 +31,9 @@
 
 | Project Name       | Description                              | Live Demo                      | GitHub Repo |
 |--------------------|------------------------------------------|--------------------------------|-------------|
-| **Responsive Landing Page** | Modern responsive UI with HTML, CSS, JS | [Live](https://your-live-link.com) | [Code](https://github.com/madanlal-codes/Responsive-Landing-Page) |
-| **Amazon Clone UI** | A frontend clone of Amazon India         | [Live](https://your-live-link.com) | [Code](https://github.com/madanlal-codes/Amazon-Clone) |
-| **Portfolio Website** | Personal portfolio built with HTML/CSS | [Live](https://your-live-link.com) | [Code](https://github.com/madanlal-codes/Portfolio-Website) |
+| **Responsive Landing Page** | Modern responsive UI with HTML, CSS, JS | [Live]() | [Code](https://github.com/madanlal-codes/Responsive-Landing-Page) |
+| **Amazon Clone UI** | A frontend clone of Amazon India         | [Live](https://madanlal-codes.github.io/Amazon-clone/) | [Code](https://github.com/madanlal-codes/Amazon-Clone) |
+| **Portfolio Website** | Personal portfolio built with HTML/CSS | [Live](https://madanlal-codes.github.io/Personal-Portfolio/) | [Code](https://github.com/madanlal-codes/Portfolio-Website) |
 
 
 ---
